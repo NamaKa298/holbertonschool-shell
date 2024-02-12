@@ -1,2 +1,2 @@
 #!/bin/bash
-12-file_typetype -t cp /tmp/iamafile
+type -t cp /tmp/iamafile
