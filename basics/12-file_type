@@ -1,2 +1,2 @@
 #!/bin/bash
-type -t cp /tmp/iamafile
+file /tmp/iamafile
