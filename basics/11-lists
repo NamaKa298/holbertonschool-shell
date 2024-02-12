@@ -1,0 +1,2 @@
+#!/bin/bash
+ls /basics /root/holbertonschool-shell /boot -al
