@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -t: -k1
+ls -l | sort -t: -k1 /etc/passwd
