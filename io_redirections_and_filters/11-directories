@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d  std | wc -l
+find -a /. -mindepth 1 -type d  std | wc -l
